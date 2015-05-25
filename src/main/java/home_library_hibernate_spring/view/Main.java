@@ -14,9 +14,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 
-/**
- * Created by Администратор on 04.04.2015.
- */
+
 public class Main {
 
 //    @Autowired

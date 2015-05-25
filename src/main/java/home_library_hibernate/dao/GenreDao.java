@@ -5,9 +5,7 @@ import home_library_hibernate.domain.Genre;
 import java.sql.SQLException;
 import java.util.List;
 
-/**
- * Created by Администратор on 04.04.2015.
- */
+
 public interface GenreDao {
 
     Integer addGenre(Genre genre) throws SQLException;

@@ -14,9 +14,6 @@ import java.sql.SQLException;
 import java.util.HashMap;
 import java.util.List;
 
-/**
- * Created by Администратор on 04.04.2015.
- */
 public class Main {
 
     private static BookDao bookDao;

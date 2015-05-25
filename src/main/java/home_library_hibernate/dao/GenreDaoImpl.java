@@ -8,9 +8,7 @@ import org.hibernate.SessionFactory;
 import java.sql.SQLException;
 import java.util.List;
 
-/**
- * Created by Администратор on 04.04.2015.
- */
+
 public class GenreDaoImpl implements GenreDao {
 
     private SessionFactory sessionFactory;
